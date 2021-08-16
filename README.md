@@ -1,1 +1,1 @@
-"# rabbitmq-tutorial" 
+rabbitmq-tutorial from official docs
